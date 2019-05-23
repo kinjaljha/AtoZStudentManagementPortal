@@ -1,0 +1,21 @@
+{
+    "name": "StudentManagement",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Kinjal Jha",
+    "license": "ISC",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "express": "^4.16.4",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^5.5.3",
+        "mongoose-intl-phone-number": "^1.1.1",
+        "nodemon": "^1.18.11",
+        "uuid": "^3.3.2"
+    },
+    "devDependencies": {}
+}

@@ -1,0 +1,4 @@
+{
+    "db_url": "mongodb://localhost/studentportal",
+    "secret": "kg324ghj2345g23kj"
+}
